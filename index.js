@@ -2,8 +2,8 @@
 // they want
 // then we will convert it into an array
 // go through the array 
-// count how many times it appears in the array
-// put it into an object data structure
+// count how many times it shows up in the array
+// put it into an object data structure which displays in the console
 
 const userEntry = prompt(`Enter a list of comma separated froyo flavors` , `vanilla,vanilla,vanilla,strawberry,coffee,coffee` );
 const flavorArray = userEntry.split(`,`);
